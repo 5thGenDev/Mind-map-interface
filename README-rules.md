@@ -1,3 +1,0 @@
-# Basic rules of conduct
-
-
