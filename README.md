@@ -1,3 +1,3 @@
-# Mind map interface
+# Some basic rules
 
-The idea is simple, you change a standard linear list into bubbles of data.
+
